@@ -1,0 +1,333 @@
+
+ 
+ 
+ 
+ 
+ 
+  CentralNotice  
+ 
+ 
+ Fencing 
+ 
+ From Wikipedia, the free encyclopedia 
+ 
+ 
+ 
+ Jump to navigation 
+ Jump to search 
+ The  English  used in this article or section  may not be easy for everybody to understand .  You can help Wikipedia by reading  Wikipedia:How to write Simple English pages , then simplifying the article.   ( February 2012 ) 
+ 
+ 
+ Part of a series of articles on Sports 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ Summer Sports 
+ 
+ 
+ Track and field athletics 
+ Football (soccer) 
+ Basketball 
+ Rugby 
+ Gymnastics 
+ Baseball 
+ American football 
+ Cycling Â· Auto racing 
+ Cricket Â· Golf 
+ Field hockey Â· Handball 
+ Archery Â· Shooting 
+ Fencing Â· Weightlifting 
+ Pentathlon Â· Triathlon 
+ Horseback riding 
+ 
+ 
+ 
+ Water sports 
+ Swimming Â·  Diving 
+ Water polo Â· Sailing 
+ Canoeing Â· Rowing 
+ 
+ 
+ 
+ Martial arts 
+ Boxing Â· Wrestling 
+ Karate Â· Taekwondo 
+ 
+ 
+ 
+ Net sports
+ Tennis Â·  Volleyball 
+ Table tennis Â·  Badminton 
+ 
+ 
+ 
+ 
+ Winter sports 
+ 
+ 
+ 
+ Ice hockey Â·  Skating 
+ Skiing Â· Curling 
+ Bobsled Â· Luge 
+ Snowboarding Â· Biathlon 
+ Ice sledge hockey 
+ 
+ 
+   Olympic fencing in 2004 
+ This is about the sport. You may be wanting to read about a  fence . 
+ Fencing  is a  sport  that includes two people with  swords . The aim is to  score  hits. There is also a referee.
+In the olden times when two people argued they fenced the first one to draw blood was wrong and the person would be dead, so the person that won would claim the dead person's house and belongings.
+ 
+ Contents 
+ 
+ 1   Weapons 
+ 
+ 1.1   Foil 
+ 1.2   ÃpÃ©e 
+ 1.3   Sabre 
+ 
+ 
+ 2   Uniform 
+ 3   Other websites 
+ 
+ 
+ Weapons [ change  |  change source ] 
+ Foil [ change  |  change source ] 
+   A foil fencer. Valid target is in red. 
+ The foil is a light and easy to bend weapon, first made in mid  17th century  as a weapon for practice. 'Hits' can only be scored by hitting the target area with the point of the sword. The target area is the torso.
+ 
+ ÃpÃ©e [ change  |  change source ] 
+   An ÃpÃ©e fencer. Valid target is in red. 
+ The Ã©pÃ©e is the heaviest of the three weapons. To score a hit, the push-button on the end of the weapon must remain fully down for 2-10  milliseconds , and must arrive (hit) with a  force  of at least 7.35  newtons . The target area for ÃpÃ©e is the entire body. This includes the feet and the head.
+ 
+ Sabre [ change  |  change source ] 
+   A sabre fencer. Valid target is in red. 
+ The  sabre  is the "cutting" weapon, with a curved guard (to protect the hand) and a triangular  blade . However, in  modern  electric scoring, a touch with any part of the sabre, (point, flat or edge, as long as it is on target) will count as a hit. The target area in sabre is everything from the waist up, except for the hands.
+ 
+ Uniform [ change  |  change source ] 
+ Fencers wear a uniform to avoid injury. They wear a mask of black mesh with a bib. Also, a jacket, short pants and a sort of half-a-shirt (called an underarm protector or plastron), all of white fabric. They must also wear socks that cover their legs. Women must wear a chest protector. These are collectively called "whites."
+ 
+ Other websites [ change  |  change source ] 
+ 
+ 
+ 
+ Wikimedia Commons has media related to  Fencing . 
+ 
+ FÃ©dÃ©ration Internationale d'Escrime  The organisation responsible for all international fencing 
+ 
+ Listen to this article ·  (info) 
+ 
+ This audio file was created from an article revision dated 12 October 2006, and does not play the most recent changes to the article. ( Audio help ) 
+ More spoken articles 
+ 
+  
+NewPP limit report
+Parsed by mw2237
+Cached time: 20200909135058
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.140 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 332/1000000
+Postâexpand include size: 9213/2097152 bytes
+Template argument size: 1111/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip postâexpand size: 0/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1.4 MB/50 MB
+Number of Wikibase entities loaded: 1/400
+ 
+ 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  184.422      1 -total
+ 54.76%  100.987      1 Template:Commonscat
+ 29.54%   54.485      1 Template:Complex
+ 17.74%   32.725      1 Template:Main_other
+ 15.93%   29.378      1 Template:Ambox
+ 12.88%   23.748      1 Template:Spoken_Wikipedia
+  9.12%   16.817      1 Template:Commons
+  9.09%   16.769      1 Template:DMC
+  8.69%   16.031      1 Template:Spoken_Wikipedia_boilerplate
+  7.37%   13.594      1 Template:Sister_project
+ 
+  Saved in parser cache with key simplewiki:pcache:idhash:28037-0!canonical and timestamp 20200909135058 and revision id 6523981
+  
+ 
+ Retrieved from " https://simple.wikipedia.org/w/index.php?title=Fencing&oldid=6523981 " 
+ Category :  Fencing Hidden categories:  Pages needing to be simplified from February 2012 All pages that need simplifying Commons category link is on Wikidata Spoken articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation menu 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Personal tools 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Not logged in Talk Contributions Create account Log in 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Namespaces 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Page Talk 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ 
+ Variants 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ 
+ 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Views 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Read Change Change source View history 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ 
+ More 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Getting around 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Main page Simple start Simple talk New changes Show any page Help Contact us Give to Wikipedia About Wikipedia 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Tools 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ What links here Related changes Upload file Special pages Permanent link Page information Cite this page Wikidata item 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Print/export 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Make a book Download as PDF Page for printing 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ In other projects 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Wikimedia Commons 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ In other languages 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Afrikaans Ø§ÙØ¹Ø±Ø¨ÙØ© Asturianu AzÉrbaycanca BÃ¢n-lÃ¢m-gÃº ÐÐ°ÑÒ¡Ð¾ÑÑÑÐ° ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)â ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ à½à½¼à½à¼à½¡à½²à½ Bosanski Brezhoneg CatalÃ  ÄeÅ¡tina Cymraeg Dansk Deutsch Eesti ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ English EspaÃ±ol Esperanto Euskara ÙØ§Ø±Ø³Û Fiji Hindi FranÃ§ais Frysk Gaeilge Galego íêµ­ì´ ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶ à¤¹à¤¿à¤¨à¥à¤¦à¥ Hrvatski Bahasa Indonesia Ãslenska Italiano ×¢××¨××ª Jawa à²à²¨à³à²¨à²¡ á¥áá áá£áá ÒÐ°Ð·Ð°ÒÑÐ° Latina LatvieÅ¡u LÃ«tzebuergesch LietuviÅ³ Magyar ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸ à´®à´²à´¯à´¾à´³à´ Malti Bahasa Melayu Minangkabau Nederlands à¤¨à¥à¤ªà¤¾à¤²à¥ æ¥æ¬èª Norsk bokmÃ¥l Occitan OÊ»zbekcha/ÑÐ·Ð±ÐµÐºÑÐ° à¨ªà©°à¨à¨¾à¨¬à© áá¶áá¶ááááá Polski PortuguÃªs RomÃ¢nÄ Ð ÑÑÑÐºÐ¸Ð¹ Scots à·à·à¶à·à¶½ SlovenÄina SlovenÅ¡Äina Ú©ÙØ±Ø¯Û Ð¡ÑÐ¿ÑÐºÐ¸ / srpski Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸ Sunda Suomi Svenska Tagalog à®¤à®®à®¿à®´à¯ Ð¢Ð°ÑÐ°ÑÑÐ°/tatarÃ§a à°¤à±à°²à±à°à± à¹à¸à¸¢ TÃ¼rkÃ§e Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ° VÃ¨neto Tiáº¿ng Viá»t VÃµro Winaray å´è¯­ ç²µèª ä¸­æ 
+ Change links 
+ 
+ 
+ 
+ 
+ 
+ 
+  This page was last changed on 3 May 2019, at 11:24. 
+ Text is available under the  Creative Commons Attribution/Share-Alike License  and the  GFDL ; additional terms may apply. See  Terms of Use  for details. 
+ 
+ 
+ Privacy policy 
+ About Wikipedia 
+ Disclaimers 
+ Mobile view 
+ Developers 
+ Statistics 
+ Cookie statement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,294 @@
+
+ 
+ 
+ 
+ 
+ 
+  CentralNotice  
+ 
+ 
+ Template:Fencing 
+ 
+ From Wikipedia, the free encyclopedia 
+ 
+ 
+ 
+ Jump to navigation 
+ Jump to search 
+ v t e Fencing 
+ History of fencing 
+ Glossary of fencing 
+ FÃ©dÃ©ration Internationale d'Escrime 
+ Weapons 
+ ÃpÃ©e 
+ Foil 
+ Sabre 
+ Main competitions 
+ Fencing at the Summer Olympics 
+ World Fencing Championships 
+ Fencing World Cup 
+ Modern fencing topics 
+ Olympic fencing 
+ Collegiate fencing 
+ High school fencing 
+ Wheelchair fencing 
+ Footwork  /  Bladework 
+ Parry 
+ Lunge 
+ Feint 
+ Attack 
+ Remise 
+ Riposte 
+ Ward 
+ FlÃ¨che 
+ Flick 
+ Prise de fer 
+ Displacement 
+ Priority 
+ Equipment ( glossary ) 
+ Body cord 
+ Piste 
+ LamÃ© 
+ Forte 
+ Grip 
+ Related articles 
+ List of fencers 
+ Modern pentathlon 
+ Knife fight 
+ Half-sword 
+ Swordsmanship 
+ Dueling scar 
+ Martial arts manual 
+ 
+   Category 
+   Commons category 
+   Outline 
+ 
+ 
+ 
+  Template documentation 
+ Initial visibility:  currently defaults to  autocollapse 
+ To set this template's initial visibility, the  |state=   parameter  may be used:
+ 
+ 
+ |state=collapsed :  {{Fencing|state=collapsed}}  to show the template collapsed, i.e., hidden apart from its title bar 
+ |state=expanded :  {{Fencing|state=expanded}}  to show the template expanded, i.e., fully visible 
+ |state=autocollapse :  {{Fencing|state=autocollapse}} 
+ 
+ shows the template collapsed to the title bar if there is a  {{ navbar }} , a  {{ sidebar }} , or some other table on the page with the collapsible attribute 
+ shows the template in its expanded state if there are no other collapsible items on the page 
+ 
+ If the  |state=  parameter in the template on this page is not set, the template's initial visibility is taken from the  |default=  parameter in the  Collapsible option  template. For the template on this page, that currently evaluates to  autocollapse .
+ 
+ See also 
+ {{ HEMA }} 
+ {{ Swords by region }} 
+ {{ Knives }} 
+ 
+ Editors can experiment in this template's sandbox  ( create  |  mirror )  and testcases  ( create )  pages.   Subpages of this template . 
+  
+NewPP limit report
+Parsed by mw2279
+Cached time: 20200924180937
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.104 seconds
+Real time usage: 0.154 seconds
+Preprocessor visited node count: 470/1000000
+Postâexpand include size: 18563/2097152 bytes
+Template argument size: 235/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip postâexpand size: 55/5000000 bytes
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1.53 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+ 
+ 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  103.586      1 -total
+ 51.81%   53.672      1 Template:Doc
+ 48.05%   49.772      1 Template:Navbox
+ 18.13%   18.778      1 Template:Collapsible_option
+ 11.09%   11.492      3 Template:Icon
+  4.00%    4.145      2 Template:Tlx
+  3.76%    3.897      1 Template:Template_other
+  3.20%    3.314      6 Template:Para
+  2.98%    3.092      3 Template:Tl
+  2.18%    2.260      3 Template:Big
+ 
+  Saved in parser cache with key enwiki:pcache:idhash:41923223-0!canonical and timestamp 20200924180937 and revision id 928207480
+  
+ 
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=Template:Fencing&oldid=928207480 " 
+ Categories :  Fencing navigational boxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation menu 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Personal tools 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Not logged in Talk Contributions Create account Log in 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Namespaces 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Template Talk 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ 
+ Variants 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ 
+ 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Views 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Read Edit View history 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ 
+ More 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Navigation 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Main page Contents Current events Random article About Wikipedia Contact us Donate 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Contribute 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Help Learn to edit Community portal Recent changes Upload file 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Tools 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ What links here Related changes Upload file Special pages Permanent link Page information Wikidata item 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Print/export 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ Download as PDF Printable version 
+ 
+ 
+  Please do not use role attribute as CSS selector, it is deprecated.  
+ 
+ 
+ Languages 
+ 
+  Please do not use the .body class, it is deprecated.  
+ 
+  Please do not use the .menu class, it is deprecated.  
+ à¦¬à¦¾à¦à¦²à¦¾ Ð ÑÑÑÐºÐ¸Ð¹ 
+ Edit links 
+ 
+ 
+ 
+ 
+ 
+ 
+  This page was last edited on 27 November 2019, at 14:36  (UTC) . 
+ Text is available under the  Creative Commons Attribution-ShareAlike License ;
+additional terms may apply.  By using this site, you agree to the  Terms of Use  and  Privacy Policy . WikipediaÂ® is a registered trademark of the  Wikimedia Foundation, Inc. , a non-profit organization. 
+ 
+ 
+ Privacy policy 
+ About Wikipedia 
+ Disclaimers 
+ Contact Wikipedia 
+ Mobile view 
+ Developers 
+ Statistics 
+ Cookie statement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

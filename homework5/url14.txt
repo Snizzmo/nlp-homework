@@ -1,0 +1,366 @@
+
+ 
+ 
+ 
+ 
+ googleoff: index 
+ 
+ 
+ 
+ 
+ 
+ Subscribe to the OCW Newsletter 
+       
+ 
+ 
+ 
+   Help |   Contact Us   
+   
+ googleon: index 
+ 
+ 
+ 
+  Begin Home Item  
+  End Home Item  
+ FIND COURSES  Begin 5 columns Item  
+ 
+ 
+   Find courses by: 
+ 
+ Topic 
+ MIT Course Number 
+ Department 
+ 
+     Collections 
+ 
+ New Courses 
+ Most Visited Courses 
+ OCW Scholar Courses 
+ Audio/Video Lectures 
+ Online Textbooks 
+ Supplemental Resources 
+ OCW Highlights for High School 
+ MITx & Related OCW Courses 
+ MIT Open Learning Library 
+ 
+     Cross-Disciplinary Topic Lists 
+ 
+ Energy 
+ Entrepreneurship 
+ Environment 
+ Introductory Programming 
+ Life Sciences 
+ Transportation 
+ 
+ 
+   Translated Courses 
+ 
+ ç¹é«å­ / Traditional Chinese 
+ TÃ¼rkÃ§e / Turkish 
+ (ë¹ëì¤)íêµ­ / Korean 
+ 
+ 
+ 
+ 
+ 
+ For Educators 
+ 
+ 
+ Chalk Radio Podcast 
+ OCW Educator Portal 
+ 
+ 
+ Instructor Insights by Department 
+ Residential Digital Innovations  
+ 
+ 
+ OCW Highlights for High School 
+ 
+ 
+ Additional Resources 
+ 
+ 
+ 
+ Give Now 
+ 
+ 
+ Make a Donation 
+ Why Give? 
+ Our Supporters 
+ Other Ways to Contribute 
+ Become a Corporate Sponsor 
+ 
+ 
+ 
+ About 
+ 
+ 
+ About MIT OpenCourseWare 
+ Site Statistics 
+ OCW Stories 
+ Newsletter 
+ Chalk Radio Podcast 
+ Open Matters Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ googleoff: index 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Tips 
+  The Modal  
+ 
+  Modal content  
+ 
+ 
+ X 
+ 
+ Exclude words from your search 
+ Put - in front of a word you want to leave out. For example, jaguar speed -car
+												 
+ Search for an exact match 
+ Put a word or phrase inside quotes. For example, "tallest building".
+												 
+ Search for wildcards or unknown words 
+ Put a * in your word or phrase where you want to leave a placeholder. For example, "largest * in the world".
+												 
+ Search within a range of numbers 
+ Put .. between two numbers. For example, camera $50..$100.
+												 
+ Combine searches 
+ Put "OR" between each search query. For example,  marathon OR race.
+												 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ googleon: index 
+  *end header*  
+  top grid end  
+  top end  
+ 
+ 
+ 
+ 
+ 
+ Home 
+    
+        »
+        
+    
+    
+        
+             Courses 
+            
+                »
+                
+            
+            
+         
+    
+    
+        
+             Athletics, Physical Education and Recreation 
+            
+                »
+                
+            
+            
+         
+    
+    
+        
+             Fencing 
+            
+                »
+                
+            
+            
+         
+    
+    
+        
+            
+            
+            Video
+         
+    
+ 
+ 
+ 
+ 
+ 
+ 
+            Video
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ Left Nav Starts  
+ 
+ 
+ 
+		                  Course Home  			                
+	                     
+ 
+ 
+ 
+		                  Syllabus  			                
+	                     
+ 
+ 
+ 
+		                  Calendar  			                
+	                     
+ 
+ 
+ 
+		                  Readings  			                
+	                     
+ 
+ 
+ 
+		                  Related Resources  			                
+	                     
+ 
+ 
+ 
+		                  Video  			                
+	                     
+ 
+ second tal block close 
+ 
+ Download Course Materials 
+ 
+ 
+ Left Nav Ends  
+ 
+ 
+ Videos of basic fencing movements are provided here. For other fencing videos supplied by other Web sites, please see the  related resources  section.     Video files.       Movements   Videos           Advance (Step Forward)       Individual   ( MP4 )       Group 1   ( MP4 )       Group 2   ( MP4 )       Multiple Advances       Group 1   ( MP4 )       Group 2   ( MP4 )       Retreat (Step Back)       Individual   ( MP4 )       Group   ( MP4 )       Multiple Retreats       Group 1   ( MP4 )       Group 2   ( MP4 )       Jump Forward, Jump Back       Individual   ( MP4 )       Group 1   ( MP4 )       Group 2   ( MP4 )       Advance Lunge       Group   ( MP4 )       Jump Lunge       Individual   ( MP4 )       Group   ( MP4 )       Group Footwork with Hand Signals       Group   ( MP4 )       Group Footwork with Equipment       Group   ( MP4 )       Simple Thrust       In pairs   ( MP4 )       Simple Thrust with Advance       In pairs   ( MP4 )       Simple Thrust with Lunge       In pairs   ( MP4 )       Simple Thrust with Advance Lunge       In pairs   ( MP4 )       Simple Thrust with Jump Lunge       In pairs   ( MP4 )       Parry 4, Riposte       In pairs   ( MP4 )           
+ googleoff: index 
+ 
+ 
+ Need help getting started? 
+ Don't show me this again 
+ help-message 
+ help slide-bottom 
+ 
+ 
+ Don't show me this again 
+ Welcome! 
+ This is one of over 2,200 courses on OCW. Find materials for this course in the pages linked along the left.  
+ MIT OpenCourseWare  is a free & open publication of material from thousands of MIT courses, covering the entire MIT curriculum. 
+ No enrollment or registration.  Freely browse and use OCW materials at your own pace. There's no signup, and no start or end dates. 
+ Knowledge is your reward.  Use OCW to guide your own life-long learning, or to teach others. We don't offer credit or certification for using OCW. 
+ Made for sharing . Download files for later. Send to friends and colleagues. Modify, remix, and reuse (just remember to cite OCW as the source.) 
+ Learn more at  Get Started with MIT OpenCourseWare 
+  help-message  
+   help popup-center 
+ googleon: index 
+ Course_inner_section tag close  
+ 
+ Course_wrapper tag close  
+ left tag close  
+ grid tag close  
+ 
+ 
+ 
+     Find Courses 
+ 
+ Find by Topic 
+ Find by Course Number 
+ Find by Department 
+ New Courses 
+ Most Visited Courses 
+ OCW Scholar Courses 
+ Audio/Video Courses 
+ Online Textbooks 
+ Instructor Insights 
+ Supplemental Resources 
+ MITx & Related OCW Courses 
+ MIT Open Learning Library 
+ Translated Courses 
+ 
+ 
+   For Educators 
+ 
+ Chalk Radio Podcast 
+ OCW Educator Portal  
+ Instructor Insights by Department 
+ Residential Digital Innovations  
+ OCW Highlights for High School 
+ Additional Resources 
+ 
+ 
+   Give Now 
+ 
+ Make a Donation 
+ Why Give? 
+ Our Supporters 
+ Other Ways to Contribute 
+ Become a Corporate Sponsor 
+ 
+ 
+   About 
+ 
+ About OpenCourseWare 
+ Site Statistics 
+ OCW Stories 
+ Newsletter 
+ Open Matters Blog 
+ 
+ about     Tools 
+ 
+ Help & FAQs 
+ Contact Us 
+ Site Map 
+ Privacy & Terms of Use 
+ RSS Feeds 
+ 
+ tools 
+     Our Corporate Supporters    HOME_CORP_LOGO_1  
+ 
+  HOME_CORP_LOGO_2  
+ 
+  HOME_CORP_LOGO_3  
+ 
+  HOME_CORP_LOGO_4  
+ 
+  HOME_CORP_LOGO_5  
+ 
+  HOME_CORP_LOGO_6  
+ 
+ 
+ 
+ About  MIT OpenCourseWare 
+ MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,400 courses available, OCW is delivering on the promise of open sharing of knowledge.  Learn more » 
+ 
+ 
+ © 2001–2018 
+Massachusetts Institute of Technology 
+ Your use of the MIT OpenCourseWare site and materials is subject to our  Creative Commons License  and other  terms of use . 
+ 
+ 
+ 
+    bottom grid end  
+  footer bottom end  
+ 
