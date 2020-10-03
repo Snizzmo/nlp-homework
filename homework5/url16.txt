@@ -1,311 +1,79 @@
+[Errno 11001] getaddrinfo failed
 
  
  
  
  
  
-  CentralNotice  
- 
- 
- Template:National members of the International Fencing Federation 
- 
- From Wikipedia, the free encyclopedia 
- 
- 
- 
- Jump to navigation 
- Jump to search 
- v t e National members  of the  International Fencing Federation 
- Fencing  Disciplines 
- Africa (CAE) 
- ALG 
- ANG 
- BEN 
- BOT 
- BUR 
- CMR 
- CPV 
- CGO 
- CIV 
- COD 
- EGY 
- GEQ 
- GAB 
- GHA 
- GUI 
- KEN 
- LBA 
- MAD 
- MLI 
- MTN 
- MAR 
- NAM 
- MRI 
- NIG 
- NGR 
- RWA 
- SEN 
- SLE 
- SOM 
- RSA 
- TOG 
- TUN 
- UGA 
- America (PAFC) 
- ANT 
- ARG 
- ARU 
- BAH 
- BAR 
- BIZ 
- BER 
- BOL 
- BRA 
- CAN 
- CHI 
- COL 
- CRC 
- CUB 
- DMA 
- DOM 
- ECU 
- ESA 
- GUA 
- GUY 
- HAI 
- HON 
- MEX 
- AHO 
- NCA 
- PAN 
- PAR 
- PER 
- PUR 
- URU 
- USA 
- VEN 
- ISV 
- Asia (FCA) 
- AFG 
- BRN 
- BAN 
- BRU 
- CAM 
- CHN 
- TPE 
- GUM 
- HKG 
- IND 
- INA 
- IRI 
- IRQ 
- JPN 
- JOR 
- KAZ 
- KOR 
- KUW 
- KGZ 
- LBN 
- MAC 
- MAS 
- MGL 
- MYA 
- NEP 
- OMN 
- PRK 
- PLE 
- PHI 
- QAT 
- KSA 
- SIN 
- SRI 
- SYR 
- TJK 
- THA 
- TKM 
- UAE 
- UZB 
- VIE 
- YEM 
- Europe (EFC) 
- ALB 
- ARM 
- AUT 
- AZE 
- BLR 
- BEL 
- BUL 
- CRO 
- CYP 
- CZE 
- DEN 
- EST 
- FIN 
- FRA 
- GEO 
- GER 
- GBR 
- GRE 
- HUN 
- IRL 
- ISR 
- ITA 
- LAT 
- LTU 
- LUX 
- MLT 
- MDA 
- MON 
- NED 
- NOR 
- POL 
- POR 
- ROU 
- RUS 
- SMR 
- SRB 
- SVK 
- SLO 
- ESP 
- SWE 
- SUI 
- MKD 
- TUR 
- UKR 
- Oceania (OFC) 
- ASA 
- AUS 
- GUM 
- NZL 
- PNG 
- SAM 
- 
- Pinnacle Events
- World Championships 
- Olympics 
- 
- Initial visibility:  currently defaults to  autocollapse 
- To set this template's initial visibility, the  |state=   parameter  may be used:
- 
  
- |state=collapsed :  {{National members of the International Fencing Federation|state=collapsed}}  to show the template collapsed, i.e., hidden apart from its title bar 
- |state=expanded :  {{National members of the International Fencing Federation|state=expanded}}  to show the template expanded, i.e., fully visible 
- |state=autocollapse :  {{National members of the International Fencing Federation|state=autocollapse}} 
  
- shows the template collapsed to the title bar if there is a  {{ navbar }} , a  {{ sidebar }} , or some other table on the page with the collapsible attribute 
- shows the template in its expanded state if there are no other collapsible items on the page 
  
- If the  |state=  parameter in the template on this page is not set, the template's initial visibility is taken from the  |default=  parameter in the  Collapsible option  template. For the template on this page, that currently evaluates to  autocollapse .
  
-  
-NewPP limit report
-Parsed by mw2305
-Cached time: 20200922222853
-Cache expiry: 2592000
-Dynamic content: false
-Complications: []
-CPU time usage: 0.088 seconds
-Real time usage: 0.115 seconds
-Preprocessor visited node count: 417/1000000
-Postâexpand include size: 22635/2097152 bytes
-Template argument size: 183/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 0/20
-Unstrip postâexpand size: 55/5000000 bytes
-Lua time usage: 0.018/10.000 seconds
-Lua memory usage: 800 KB/50 MB
-Number of Wikibase entities loaded: 0/400
  
  
-Transclusion expansion time report (%,ms,calls,template)
-100.00%   66.865      1 -total
- 68.57%   45.848      1 Template:Navbox
- 31.20%   20.865      1 Template:Collapsible_option
-  8.20%    5.480      2 Template:Tlx
-  6.71%    4.488      6 Template:Para
-  4.21%    2.816      1 Template:Template_other
-  4.12%    2.754      3 Template:Big
+       
  
-  Saved in parser cache with key enwiki:pcache:idhash:36111142-0!canonical and timestamp 20200922222853 and revision id 932007849
-  
+   
+           
  
- Retrieved from " https://en.wikipedia.org/w/index.php?title=Template:National_members_of_the_International_Fencing_Federation&oldid=932007849 " 
- Categories :  Fencing templates Sport federations national members navigational boxes International sports navigational boxes 
  
  
  
  
  
  
- Navigation menu 
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Personal tools 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- Not logged in Talk Contributions Create account Log in 
  
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Namespaces 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- Template Talk 
+   
+   
  
+   
+   Make Yahoo Your Homepage Discover something new every day from News, Sports, Finance, Entertainment and more!         HOME        MAIL        NEWS        FINANCE        SPORTS        ENTERTAINMENT        LIFE        MORE           Download the Yahoo Home app            Yahoo Home Search query   Sign in   Mail   Sign in  to view your mail          Mail    Mail      Coronavirus   Coronavirus      News   News      Finance   Finance      Sports   Sports      2020 Election   2020 Election      BLM   BLM      Entertainment   Entertainment      Life   Life      Shopping   Shopping      Premium Offers   Premium Offers      More...   More...       
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
+   
  
  
  
- Variants 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
  
  
  
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Views 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- Read Edit View history 
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
  
- More 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
  
  
  
+   
+   
  
  
- Search 
  
  
  
+   
+   
  
  
  
@@ -313,85 +81,118 @@ Transclusion expansion time report (%,ms,calls,template)
  
  
  
+     
+   
  
+   
+ Trump doing 'very well' after virus diagnosis: Doctor The president's physician said he was "extremely happy" with Trump's progress after he was taken to Walter Reed Medical Center for symptoms relating to the coronavirus. No fever for more than 24 hoursÂ Â» Patriots QB Cam Newton tests positive for virus: Report  CrÃ¼e drummer: 'I was drinking 2 gallons â not pints' Biden makes quick changes after Trump gets virus Will Trump diagnosis expedite stimulus package? Fox News host blasts coverage of Trump's infection   
  
+   
+ Health Eat This, Not That! I'm an ER Doctor and Here's Why Trump is at High Risk HuffPost Future Presidential Debates In Doubt After Trump Comes Down With COVID-19 Yahoo Finance President Trump testing positive for COVID-19 is a 'teachable moment': congresswoman   Thanks for your feedback!   Celebrity USA TODAY Entertainment Kris Jenner sued by ex-bodyguard who says she sexually harassed him; she 'vehemently' denies it The Wrap Kris Jenner Denies âAbsurdâ Sexual Harassment, Discrimination Allegations in Former Security Guardâs Lawsuit HuffPost Kris Jenner Calls Former Security Guard's Sexual Misconduct Lawsuit 'Absurd'   Thanks for your feedback!   World LA Times As another migrant caravan heads toward the United States, skeptics ask: Why now? Reuters Mexico sees U.S. election behind migrant caravan, seeks to avoid Trump spat AFP US-bound migrant caravan enters Guatemala: AFP   Thanks for your feedback!   Entertainment In The Know Man gets blasted online for playing 'humiliating' prank on girlfriend: 'This was cruel not funny' TikTokers are calling the prank "emotionally abusive."   Thanks for your feedback!   Celebrity E! Amanda Bynes Returns to Instagram With a Dramatic New Makeover Hairspray actress Amanda Bynes is back on Instagram to show off her edgy black hair under her new social media handle, "matteblackonlinestore."   Thanks for your feedback!   Business HuffPost Kushner Biz Won $850 Million In U.S.-Backed Loans At Special Terms: Report The Independent Ivanka Trump and Jared Kushner test negative for coronavirus â White House Business Insider Ivanka Trump says she's 'praying for the swift recovery' of her father and Melania after they tested positive for COVID-19   Thanks for your feedback!   Politics FOX News Videos Video White House physician releases an update on Trump's condition Fox News chief White House correspondent John Roberts has the latest on 'The Five'   Thanks for your feedback!     
  
  
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
+   
+   
  
- Navigation 
+   
+ Trending Now 1.   Cate Blanchett 2.   Sofia Pernas 3.   Coronavirus 4.   Reese Witherspoon 5.   Invisalign Cost 6.   HELOC Rates 7.   Alicia Vikander 8.   Turmeric 9.   Kimberly Guilfoyle 10.   Omari Hardwick   
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- Main page Contents Current events Random article About Wikipedia Contact us Donate 
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Contribute 
+ Yahoo! Mail 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- Help Learn to edit Community portal Recent changes Upload file 
+   
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Tools 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- What links here Related changes Upload file Special pages Permanent link Page information Wikidata item 
+   
  
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Print/export 
+     
+ Weather Weather Richardson View your Locations Remove from favorite locations Detect my location Enter City or Zipcode Manage Locations Today Day: Sunny with a high of 81 Â°F (27.2 Â°C). Winds S at 11 to 12 mph (17.7 to 19.3 kph). Night: Partly cloudy. Winds variable at 2 to 9 mph (3.2 to 14.5 kph). The overnight low will be 63 Â°F (17.2 Â°C). 82 Â° 57 Â° Sun Rain today with a high of 74 Â°F (23.3 Â°C) and a low of 59 Â°F (15.0 Â°C).  There is a 25% chance of precipitation. 74 Â° 59 Â° Mon Sunny today with a high of 76 Â°F (24.4 Â°C) and a low of 53 Â°F (11.7 Â°C). 76 Â° 53 Â° Tue Sunny today with a high of 85 Â°F (29.4 Â°C) and a low of 59 Â°F (15.0 Â°C). 85 Â° 59 Â° See MoreÂ Â»   
  
-  Please do not use the .body class, it is deprecated.  
+   
+ Scoreboard Change Sports to display different scores NBAÂ Â  NFLÂ Â  MLBÂ Â  NHLÂ Â  NCAABÂ Â  NCAAFÂ Â  TrendingÂ Â  Yesterday Today Tomorrow Huesca  Elche  0 0 3' Getafe  Real Sociedad  0 0 1' Manchester City  Leeds United  0 0 3' More scores Â»   
  
-  Please do not use the .menu class, it is deprecated.  
- Download as PDF Printable version 
+   
+ Horoscope Change your horoscope sign Aries Taurus Gemini Cancer Leo Virgo Libra Scorpio Sagittarius Capricorn Aquarius Pisces October 3 -  Take a second look. Things aren't quite what they seem. You may find that people have been hiding something from you, but their intentions are almost certainly good. The truth can set you free!  See more Â»   
  
+   
+   
  
-  Please do not use role attribute as CSS selector, it is deprecated.  
  
  
- Languages 
  
-  Please do not use the .body class, it is deprecated.  
  
-  Please do not use the .menu class, it is deprecated.  
- FranÃ§ais 
- Edit links 
  
  
  
  
+ Yahoo! Mail 
  
  
-  This page was last edited on 22 December 2019, at 20:41  (UTC) . 
- Text is available under the  Creative Commons Attribution-ShareAlike License ;
-additional terms may apply.  By using this site, you agree to the  Terms of Use  and  Privacy Policy . WikipediaÂ® is a registered trademark of the  Wikimedia Foundation, Inc. , a non-profit organization. 
  
  
- Privacy policy 
- About Wikipedia 
- Disclaimers 
- Contact Wikipedia 
- Mobile view 
- Developers 
- Statistics 
- Cookie statement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yahoo! Sports 
+ 
+ 
+     
+ Terms (Updated) Privacy (Updated) Privacy Dashboard Advertise About Our Ads Careers Help Feedback   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close this content, you can also use the Escape key at anytime     
+ 
+   
+ 
+ 
+   
+ 
+ 
+       
+                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
