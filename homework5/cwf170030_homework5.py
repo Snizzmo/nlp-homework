@@ -23,6 +23,8 @@ def main():
     topic = "Mario"
     seed_url = "https://en.wikipedia.org/wiki/"+topic
 
+    seed_url="https://lotr.fandom.com/wiki/Main_Page"
+
     # 1. Web crawler
     seed_queue = find_urls(seed_url, topic)
     # print(seed_queue[:4])
