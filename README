@@ -1,3 +1,4 @@
 This is all of the major assignments for the natural language processing course I took in university. 
 HW 7 shows a basic chatbot. 
-HW 8 is a pdf showing a jupyter notebook and step-by-steps 
+HW 8 is a pdf showing a jupyter notebook and step-by-steps reading in data from a csv, vectorizing the data, and making a neural network
+which identifies who the author is with sklearn and pandas. 
